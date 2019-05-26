@@ -1,4 +1,4 @@
-#jph mymodule
+# jph mymodule
 
 _This repos is sort of prestashop module template  
 This is usefull if you have to create a module and, like me, you forgot this line or that line_
